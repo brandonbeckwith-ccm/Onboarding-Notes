@@ -1,0 +1,8 @@
+- Try to not use watchers
+	- Not as good as events
+- Ref vs Reactive?
+	- Just use Ref, it does everything better
+- Two big lifecycle hooks, on / un mounted
+- Go through the vue documentation to figure out what you need
+	- Know the functions and then pick it up
+- The [compound effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X) it's a good book
