@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Notes/Essential JavaScript Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Notes/Essential JavaScript Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Development Notes/Essential JavaScript Debugging.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c57ab8d61ca466b6",
+  "active": "9941544486bfaa41",
   "lastOpenFiles": [
     "Development Notes/Essential JavaScript Debugging.md",
     "Development Notes/Development Directory.md",
