@@ -42,8 +42,12 @@
             "id": "9941544486bfaa41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Development Notes/Development Directory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -96,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e239dad81ebc5933",
@@ -113,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Development Notes/Development Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Development Notes/Development Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Development Notes/Development Directory.md"
+              }
             }
           }
         ]
@@ -172,6 +179,7 @@
   },
   "active": "9941544486bfaa41",
   "lastOpenFiles": [
+    "Development Notes/Vue Videos.md",
     "Development Notes/Essential JavaScript Debugging.md",
     "Development Notes/Development Directory.md",
     "Development Notes/Getting Gitty!.md",
