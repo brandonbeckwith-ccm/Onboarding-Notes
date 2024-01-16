@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Notes/Essential JavaScript Debugging.md",
+                "file": "Development Notes/JS Generators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d672ef3687325ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development Notes/Shared Web Workers.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,37 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "Development Notes/Essential JavaScript Debugging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4db77f33d347f5ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9941544486bfaa41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development Notes/Development Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "053f6021350097cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development Notes/Shared Dev Videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Notes/Shared Dev Videos.md",
+                "file": "Development Notes/Shared Web Workers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Notes/Shared Dev Videos.md",
+                "file": "Development Notes/Shared Web Workers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development Notes/Shared Dev Videos.md"
+                "file": "Development Notes/Shared Web Workers.md"
               }
             }
           }
@@ -190,15 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053f6021350097cd",
+  "active": "d672ef3687325ff7",
   "lastOpenFiles": [
-    "README.md",
-    "Development Notes/Development Directory.md",
-    "Development Notes/Shared Dev Videos.md",
-    "Development Notes/Essential JavaScript Debugging.md",
-    "Development Notes/Getting Gitty!.md",
-    "General Notes/First Day Notes.md",
     "Development Notes/Thinking in React.md",
+    "Development Notes/JS Generators.md",
+    "Development Notes/Vue.md",
+    "General Notes/Timeline.md",
+    "General Notes/First Day Notes.md",
+    "Color Pallet.md",
+    "Development Notes/Shared Dev Videos.md",
+    "Development Notes/Shared Web Workers.md",
+    "Development Notes/Essential JavaScript Debugging.md",
+    "Development Notes/Development Directory.md",
+    "Development Notes/Getting Gitty!.md",
+    "README.md",
     "Development Notes",
     "assests/Pasted image 20240115131519.png",
     "assests",
