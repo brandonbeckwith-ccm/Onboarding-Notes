@@ -7,4 +7,3 @@
 	- This may need to be done a couple times in order to ensure up to date changes
 - Preferred method is to create a conflict branch and merge that way.
 	- Naming convention: `feature/${featureName}-conflict`
-- 
