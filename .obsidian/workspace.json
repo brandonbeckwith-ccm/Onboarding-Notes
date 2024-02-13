@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Notes/JS Generators.md",
+                "file": "JavaScript/Debounce and Throttle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c445ebc735045d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development Notes/Vuelidate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "383f38c71d8084b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development Notes/Table Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a60524be68fd677d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Notes/JS Generators.md",
+                "file": "Feedback Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Notes/JS Generators.md",
+                "file": "Feedback Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +198,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development Notes/JS Generators.md"
+                "file": "Feedback Notes.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,20 +220,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f21258ee3f4ed83f",
+  "active": "a60524be68fd677d",
   "lastOpenFiles": [
+    "Performance Feedback.md",
+    "Feedback Notes.md",
+    "Development Notes/Table Practice.md",
+    "Development Notes/Development Directory.md",
+    "JavaScript/Essential JavaScript Debugging.md",
+    "Development Notes/Vuelidate.md",
     "JavaScript/Debounce and Throttle.md",
+    "JavaScript/JS Generators.md",
     "JavaScript/Shared Web Workers.md",
     "JavaScript/Promises.md",
-    "Development Notes/JS Generators.md",
     "().md",
     "JavaScript/Closures.md",
     "JavaScript",
     "JavaScript/Async Await.md",
     "assests/Pasted image 20240117120244.png",
     "Development Notes/Getting Gitty!.md",
-    "JavaScript/Essential JavaScript Debugging.md",
-    "Development Notes/Development Directory.md",
     "Color Pallet.md",
     "Development Notes/Thinking in React.md",
     "Development Notes/Vue.md",
